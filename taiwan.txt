@@ -1,0 +1,3 @@
+# tw
+DOMAIN-SUFFIX,edu.tw
+DOMAIN-SUFFIX,edu.hk

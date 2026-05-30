@@ -1,0 +1,11 @@
+#SpeedTest
+#USER-AGENT,SpeedTest*
+DOMAIN-KEYWORD,speed
+DOMAIN-KEYWORD,speedtest
+DOMAIN-SUFFIX,fullfibre.systems
+DOMAIN,myspeed.giantcomm.net
+DOMAIN,mobile-data.onetrust.io
+DOMAIN,ipgeo.wlvpn.com
+DOMAIN,test.nextlevel.net
+DOMAIN,sfo1.fnbuilds.services
+DOMAIN,sb.scorecardresearch.com

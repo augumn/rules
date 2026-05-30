@@ -1,0 +1,4 @@
+#googlevideo
+# google流媒体, 占流量大, 可使用不干净的ip, 但是尽量用美国地区
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,ytimg.com

@@ -1,0 +1,3 @@
+#microsoftmedia
+DOMAIN-SUFFIX,p-cdn.com
+DOMAIN-SUFFIX,1drv.com

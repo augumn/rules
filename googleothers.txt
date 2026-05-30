@@ -1,0 +1,2 @@
+#google其他
+DOMAIN-SUFFIX,googletst.com

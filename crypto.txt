@@ -1,0 +1,7 @@
+DOMAIN-SUFFIX,bnbstatic.com
+DOMAIN-KEYWORD,saasexch.com
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,binance.us
+DOMAIN-SUFFIX,binance.info
+DOMAIN-KEYWORD,binance

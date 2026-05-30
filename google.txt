@@ -1,0 +1,20 @@
+#google
+#必须使用干净的美国ip
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN,youtubei.googleapis.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,gmodules.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,yt.be
+DOMAIN-KEYWORD,com.google.ios.youtube
+DOMAIN-SUFFIX, cloudshell.dev
+DOMAIN-SUFFIX,admin.recaptcha.net
+DOMAIN-SUFFIX,recaptcha.net
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,stitch.withgoogle.com
+####### google end
+
+####DOMAIN-KEYWORD,YouTube
+####DOMAIN-KEYWORD,google

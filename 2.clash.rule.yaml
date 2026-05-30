@@ -1,0 +1,426 @@
+rule-providers:
+  #self reject
+  rejectTinygif:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/rejectTinygif.txt"
+    interval: 3600
+    path: ./rejectTinygif.txt
+  #广告
+  surgereject:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/reject.txt"
+    interval: 3600
+    path: ./surgereject.txt
+    # Privacy隐私
+  Privacy:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/ke1ewang/Profiles/master/Surge/Ruleset/Guard/Privacy.list"
+    interval: 3600
+    path: ./Privacy.list
+  #icloud
+  icloud:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/icloud.txt"
+    interval: 3600
+    path: ./icloud.txt
+  #appledirect
+  appledirect:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/apple.txt"
+    interval: 3600
+    path: ./appledirect.txt
+  ##############################
+  ##############################
+  ##########selfspecial#########
+  selfspecial:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/special.txt"
+    interval: 3600
+    path: ./selfspecial.txt
+  #selfbbc
+  selfbbc:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/bbc.txt"
+    interval: 3600
+    path: ./selfbbc.txt
+  #selfgoogle
+  selfgoogle:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/google.txt"
+    interval: 3600
+    path: ./selfgoogle.txt
+  #selfgooglevideo
+  selfgooglevideo:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/googlevideo.txt"
+    interval: 3600
+    path: ./selfgooglevideo.txt
+  #selfgoogleother
+  selfgoogleother:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/googleother.txt"
+    interval: 3600
+    path: ./selfgoogleother.txt
+  #selfmicrosoft
+  selfmicrosoft:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/microsoft.txt"
+    interval: 3600
+    path: ./selfmicrosoft.txt
+  #selfmicrosoftmedia
+  selfmicrosoftmedia:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/microsoftmedia.txt"
+    interval: 3600
+    path: ./selfmicrosoftmedia.txt
+  #selftwitter
+  selftwitter:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/twitter.txt"
+    interval: 3600
+    path: ./selftwitter.txt
+  #selfmustAmerica
+  selfmustAmerica:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/mustAmerica.txt"
+    interval: 3600
+    path: ./selfmustAmerica.txt
+  #selfopenai
+  selfopenai:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/openai.txt"
+    interval: 3600
+    path: ./selfopenai.txt
+  #selfcloudflare
+  selfcloudflare:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/cloudflare.txt"
+    interval: 3600
+    path: ./selfcloudflare.txt
+  #selfspeedtest
+  selfspeedtest:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/speedtest.txt"
+    interval: 3600
+    path: ./selfspeedtest.txt
+  #selfmyair
+  selfmyair:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/myair.txt"
+    interval: 3600
+    path: ./selfmyair.txt
+  #selfmydirct
+  selfmydirct:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/mydirct.txt"
+    interval: 3600
+    path: ./selfmydirct.txt
+  #selfmydirct
+  selftaiwan:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/taiwan.txt"
+    interval: 3600
+    path: ./selftaiwan.txt
+  #selfwangyi163
+  selfwangyi163:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/wangyi163.txt"
+    interval: 3600
+    path: ./selfwangyi163.txt
+  #selfzlibrary
+  selfzlibrary:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/zlibrary.txt"
+    interval: 3600
+    path: ./selfzlibrary.txt
+  #selftiktok
+  selftiktok:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/tiktok.txt"
+    interval: 3600
+    path: ./selftiktok.txt
+  #selfothers
+  selfothers:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/others.txt"
+    interval: 3600
+    path: ./selfothers.txt
+  #selfcrypto
+  selfcrypto:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/crypto.txt"
+    interval: 3600
+    path: ./selfcrypto.txt
+  #selfadult
+  selfadult:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/adult.txt"
+    interval: 3600
+    path: ./selfadult.txt
+  #selfcloudstorage
+  selfcloudstorage:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/cloud-storage.txt"
+    interval: 3600
+    path: ./selfcloudstorage.txt
+  #selfsharedinfra
+  selfsharedinfra:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/shared-infra.txt"
+    interval: 3600
+    path: ./selfsharedinfra.txt
+  #selfgithub
+  selfgithub:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/github.txt"
+    interval: 3600
+    path: ./selfgithub.txt
+  #selfgithubusercontent
+  selfgithubusercontent:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/githubusercontent.txt"
+    interval: 3600
+    path: ./selfgithubusercontent.txt
+  #selfdocker
+  selfdocker:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/docker.txt"
+    interval: 3600
+    path: ./selfdocker.txt
+  #selfnpm
+  selfnpm:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/npm.txt"
+    interval: 3600
+    path: ./selfnpm.txt
+  #selfnodejs
+  selfnodejs:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/nodejs.txt"
+    interval: 3600
+    path: ./selfnodejs.txt
+  #selfpython
+  selfpython:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/python.txt"
+    interval: 3600
+    path: ./selfpython.txt
+  #selfjavadev
+  selfjavadev:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/java-dev.txt"
+    interval: 3600
+    path: ./selfjavadev.txt
+  #selfunlockAmazonPV
+  selfunlockAmazonPV:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/unlockAmazonPV.txt"
+    interval: 3600
+    path: ./selfunlockAmazonPV.txt
+    ##########selfspecial#########
+    ##############################
+    ##############################
+  #telegram
+  telegramcidr:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/telegramcidr.txt"
+    interval: 3600
+    path: ./telegramcidr.txt
+  #localprivate
+  localprivate:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/ruleset/private.txt"
+    interval: 3600
+    path: ./localprivate.txt
+  #LocalAreaNetwork
+  LocalAreaNetwork:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list"
+    interval: 3600
+    path: ./LocalAreaNetwork.txt
+  windowsSpyBlocker:
+    behavior: "domain"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/dnscrypt/spy.txt"
+    interval: 3600
+    path: ./windowsSpyBlocker.txt
+  windowsUpdateBlocker:
+    behavior: "domain"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/dnscrypt/update.txt"
+    interval: 3600
+    path: ./windowsUpdateBlocker.txt
+
+rules:
+    - DOMAIN-SUFFIX,chatanywhere.com.cn,REJECT
+    - DOMAIN-SUFFIX,intercom.io,REJECT
+
+    #My ip
+    - DOMAIN-SUFFIX,myip.com,fvmemxAzvip
+    - DOMAIN-SUFFIX,ipinfo.io,fvmemx.repl
+    - DOMAIN-SUFFIX,myip.ms,🇺🇸AmericaLine
+
+    - DOMAIN-SUFFIX,gitlab.com, 🌟LPA*美国
+
+##############################
+    #### RULE-SET DIRECT
+    - RULE-SET,selfmydirct,DIRECT
+    - RULE-SET,appledirect,🌟LPA*美国
+
+    #### RULE-SET REJECT
+    # - RULE-SET,windowsUpdateBlocker,REJECT
+    # - RULE-SET,windowsSpyBlocker,REJECT
+    - RULE-SET,rejectTinygif,REJECT
+    - RULE-SET,surgereject,REJECT
+    - RULE-SET,Privacy,REJECT
+    #### RULE-SET REJECT
+##############################
+
+##############################
+    ### RULE-SET use
+    - RULE-SET,telegramcidr,🌟LPA
+    - RULE-SET,icloud,🇺🇸AmericaLine
+    - RULE-SET,selfspecial,🌟LPA
+    - RULE-SET,selfbbc,🌟LPA*美国
+    - RULE-SET,selfgoogle,🇺🇸AmericaLine
+    - RULE-SET,selfgooglevideo,🌟LPA*美国 #google 耗流量
+    - RULE-SET,selfgoogleother,🌟LPA*美国
+    - RULE-SET,selfmicrosoft,🇺🇸AmericaLine
+    - RULE-SET,selfmicrosoftmedia,🌟LPA*美国
+
+
+    #必须美国
+    - RULE-SET,selfopenai,🇺🇸AmericaLine
+    - RULE-SET,selfcloudflare,🇺🇸AmericaLine
+    - RULE-SET,selfmustAmerica,🇺🇸AmericaLine
+    - RULE-SET,selfunlockAmazonPV,🌟LPA*美国
+
+    #其他一些需要用到美国ip, 不重要
+    - RULE-SET,selfmyair,🌟LPA*美国
+    - RULE-SET,selftaiwan,🌟LPA*美国
+    - RULE-SET,selftwitter,🌟LPA*美国
+
+    #不重要 163
+    - RULE-SET,selfwangyi163,🌟LPA*香港
+
+    #测速 耗流量
+    - RULE-SET,selfspeedtest,🌟LPA*美国
+    #tiktok
+    - RULE-SET,selftiktok,🌟LPA*美国
+
+    #github 耗流量
+    - RULE-SET,selfgithub,🌟LPA*日本
+    - RULE-SET,selfgithubusercontent,🌟LPA*日本
+    - RULE-SET,selfdocker,🌟LPA*日本
+    - RULE-SET,selfnpm,🌟LPA*日本
+    - RULE-SET,selfnodejs,🌟LPA*日本
+    - RULE-SET,selfpython,🌟LPA*日本
+    - RULE-SET,selfjavadev,🌟LPA*日本
+
+    #必须用LPA
+    #其他
+    - RULE-SET,selfothers,🌟LPA*日本
+    - RULE-SET,selfcrypto,🌟LPA*日本
+    - RULE-SET,selfadult,🌟LPA*日本
+    - RULE-SET,selfcloudstorage,🌟LPA*日本
+    - RULE-SET,selfsharedinfra,🌟LPA*日本
+    - RULE-SET,selfzlibrary,🌟LPA
+    #### - RULE-SET
+##############################
+
+
+    #Final
+    - RULE-SET,localprivate,DIRECT
+    - IP-CIDR,192.168.0.0/16,DIRECT
+    - IP-CIDR,10.0.0.0/8,DIRECT
+    - IP-CIDR,172.16.0.0/12,DIRECT
+    - IP-CIDR,172.23.0.0/12,DIRECT
+    - IP-CIDR,127.0.0.0/8,DIRECT
+    - IP-CIDR,100.64.0.0/10,DIRECT
+    - IP-CIDR6,::1/128,DIRECT
+    - IP-CIDR6,fc00::/7,DIRECT
+    - IP-CIDR6,fe80::/10,DIRECT
+    - IP-CIDR6,fd00::/8,DIRECT
+    - RULE-SET,LocalAreaNetwork,DIRECT #本地 RULE-SET
+    - GEOIP,CN,DIRECT,no-resolve
+    - MATCH,🌟LPA

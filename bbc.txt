@@ -1,0 +1,17 @@
+#BBC
+DOMAIN-SUFFIX,itv.com
+DOMAIN-SUFFIX,ve-hls-uk-live.akamaized.net
+DOMAIN-SUFFIX,bbci.co.uk
+DOMAIN-SUFFIX,bbc.co.uk
+DOMAIN-SUFFIX,vod-sub-uk-live.akamaized.net
+DOMAIN-SUFFIX,uk-live.akamaized.net
+DOMAIN-KEYWORD,eurosport-vod.akamai
+DOMAIN-SUFFIX,eurosport.co.uk
+DOMAIN-SUFFIX,eurosport.com
+DOMAIN-SUFFIX,drm-fairplay-licensing.axprod.net
+DOMAIN-SUFFIX,bidi.net.uk
+DOMAIN-SUFFIX,bbc.com
+DOMAIN-KEYWORD,uk-live.akamaized.net
+DOMAIN,itvpnp.live.ott.irdeto.com
+DOMAIN,dar-itv1simadotcom.itv.com
+DOMAIN,uk-script.dotmetrics.net

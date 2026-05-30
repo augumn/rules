@@ -1,0 +1,3 @@
+DOMAIN-SUFFIX,nodejs.org
+DOMAIN-SUFFIX,nodejs.cn
+DOMAIN-SUFFIX,unofficial-builds.nodejs.org

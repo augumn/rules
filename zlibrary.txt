@@ -1,0 +1,9 @@
+DOMAIN-SUFFIX,zlibrary-asia.se
+DOMAIN-SUFFIX,lib.ph
+DOMAIN-SUFFIX,1lib.ph
+DOMAIN-SUFFIX,booksc.eu
+DOMAIN-SUFFIX,zlibrary-africa.se
+DOMAIN-SUFFIX,singlelogin.re
+DOMAIN-SUFFIX,zlibrary-jp.se
+DOMAIN-SUFFIX,zlibrary-global.se
+DOMAIN-KEYWORD, zlibrary

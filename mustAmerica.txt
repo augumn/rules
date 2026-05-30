@@ -1,0 +1,15 @@
+#MustAmerica
+DOMAIN-SUFFIX,paypal.com
+
+#linkedin.com
+DOMAIN-SUFFIX,linkedin.com
+DOMAIN-KEYWORD,linkedin
+DOMAIN-SUFFIX,licdn.com
+
+
+#indeed.com
+DOMAIN-SUFFIX,indeed.com
+
+#Hbo max
+DOMAIN-SUFFIX,max.com
+DOMAIN-SUFFIX,brightline.tv

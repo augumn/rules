@@ -1,0 +1,17 @@
+DOMAIN-SUFFIX,bootstrapcdn.com
+DOMAIN,cdn.plyr.io
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,llnwd.net
+DOMAIN-SUFFIX,sectigo.com
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,lencr.org
+DOMAIN-SUFFIX,qcloud.com
+DOMAIN-SUFFIX,live.qcloud.com
+#DOMAIN-SUFFIX,myqcloud.com
+DOMAIN,honeylive.oss-accelerate.aliyuncs.com
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,onetrust.com
+DOMAIN-SUFFIX,staticfile.org
+DOMAIN-SUFFIX,hongkong.aliyuncs.com
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,globalsign.com

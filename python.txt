@@ -1,0 +1,5 @@
+DOMAIN-SUFFIX,python.org
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,pythonhosted.org
+DOMAIN-SUFFIX,files.pythonhosted.org
+DOMAIN-SUFFIX,pypi.python.org

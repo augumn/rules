@@ -1,0 +1,7 @@
+#special
+DOMAIN,goes.fvmemx.xyz
+DOMAIN-SUFFIX,fvmemx.xzy
+DOMAIN-SUFFIX,fvmemx.link
+
+DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,archive.org

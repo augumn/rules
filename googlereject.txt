@@ -1,0 +1,16 @@
+#chrome-edge-reject-win-mac
+#屏蔽 Chrome & Edge 自动更新 (Windows & macOS 兼容)
+DOMAIN,edgedl.me.gvt1.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,gvt3.com
+DOMAIN,update.googleapis.com
+DOMAIN,tools.google.com
+DOMAIN,dl.google.com
+DOMAIN,dl.l.google.com
+DOMAIN,msedge.api.cdp.microsoft.com
+DOMAIN,msedge.f.602.events.data.microsoft.com
+DOMAIN,edge.microsoft.com
+DOMAIN-KEYWORD,googleupdate
+DOMAIN-KEYWORD,edgeupdate
+####### chrome-edge-reject end
