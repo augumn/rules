@@ -1,0 +1,14 @@
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,hf.space
+DOMAIN-SUFFIX,huggingface.com
+DOMAIN-SUFFIX,huggingfaceusercontent.com
+DOMAIN-SUFFIX,cdn-lfs.hf.co
+DOMAIN-SUFFIX,cdn-lfs-us-1.hf.co
+DOMAIN-SUFFIX,cdn-lfs-eu-1.hf.co
+DOMAIN-SUFFIX,us.gcp.cdn.hf.co
+DOMAIN-SUFFIX,cas-bridge.xethub.hf.co
+DOMAIN-SUFFIX,cas-server.xethub.hf.co
+DOMAIN-SUFFIX,transfer.xethub.hf.co
+DOMAIN-SUFFIX,xethub.hf.co
+DOMAIN-SUFFIX,hf-mirror.com

@@ -241,6 +241,14 @@ rule-providers:
     url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/githubusercontent.txt"
     interval: 3600
     path: ./selfgithubusercontent.txt
+  #selfhuggingface
+  selfhuggingface:
+    behavior: "classical"
+    type: http
+    format: "text"
+    url: "https://raw.githubusercontent.com/augumn/rules/refs/heads/main/huggingface.txt"
+    interval: 3600
+    path: ./selfhuggingface.txt
   #selfdocker
   selfdocker:
     behavior: "classical"
@@ -391,6 +399,7 @@ rules:
     #github 耗流量
     - RULE-SET,selfgithub,🌟LPA*日本
     - RULE-SET,selfgithubusercontent,🌟LPA*日本
+    - RULE-SET,selfhuggingface,🌟LPA*美国
     - RULE-SET,selfdocker,🌟LPA*日本
     - RULE-SET,selfnpm,🌟LPA*日本
     - RULE-SET,selfnodejs,🌟LPA*日本

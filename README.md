@@ -33,6 +33,7 @@ https://raw.githubusercontent.com/augumn/rules/refs/heads/main/github.txt
 - `facebook.txt`: Meta/Facebook/Instagram/WhatsApp related domains.
 - `github.txt`: GitHub main domains.
 - `githubusercontent.txt`: GitHub asset and user-content domains.
+- `huggingface.txt`: Hugging Face, Spaces, model download, LFS, and Xet transfer domains.
 - `google.txt`: Google service domains.
 - `googleother.txt`: Additional Google domains.
 - `googlevideo.txt`: YouTube/Google video domains.
