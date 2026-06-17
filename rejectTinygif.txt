@@ -48,3 +48,6 @@ DOMAIN-SUFFIX,beacon.qq.com
 DOMAIN,oth.str.mdt.qq.com
 USER-AGENT,SogouInput
 USER-AGENT,com.sogou.sogouinput.BaseKeyboard
+DOMAIN-KEYWORD,sogou
+PROCESS-NAME,SogouPreference
+PROCESS-NAME,SogouInput
