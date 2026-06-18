@@ -15,3 +15,4 @@ DOMAIN-KEYWORD,uk-live.akamaized.net
 DOMAIN,itvpnp.live.ott.irdeto.com
 DOMAIN,dar-itv1simadotcom.itv.com
 DOMAIN,uk-script.dotmetrics.net
+DOMAIN,default.bbc-reporting-api.app
