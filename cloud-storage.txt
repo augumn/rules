@@ -4,3 +4,5 @@ DOMAIN-SUFFIX,mega.co.nz
 DOMAIN-SUFFIX,terabox.com
 DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,mypikpak.net
+DOMAIN-SUFFIX,teracloud.jp
+DOMAIN-SUFFIX,infini-cloud.net
