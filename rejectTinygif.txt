@@ -51,3 +51,5 @@ USER-AGENT,com.sogou.sogouinput.BaseKeyboard
 DOMAIN-KEYWORD,sogou
 PROCESS-NAME,SogouPreference
 PROCESS-NAME,SogouInput
+
+DOMAIN-SUFFIX,wuchuyun.com
