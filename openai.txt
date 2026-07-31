@@ -3,3 +3,5 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,cdn.oaistatic.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,lmstudio.ai
+DOMAIN-SUFFIX,vvvcode.com
+DOMAIN-SUFFIX,nayutoai.xyz
