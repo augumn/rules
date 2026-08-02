@@ -1,0 +1,17 @@
+#googleupdate
+# Fuck Google
+# AI / Optimization Guide
+DOMAIN-SUFFIX,optimizationguide-pa.googleapis.com
+DOMAIN-SUFFIX,optimizationguide.googleapis.com
+# Component Update
+DOMAIN-SUFFIX,componentupdater-pa.googleapis.com
+# Chrome Update
+DOMAIN-SUFFIX,update.googleapis.com
+DOMAIN-SUFFIX,dl.google.com
+DOMAIN-SUFFIX,redirector.gvt1.com
+DOMAIN-SUFFIX,edgedl.me.gvt1.com
+# Online Config / Experiments
+DOMAIN-SUFFIX,ogs.google.com
+DOMAIN-SUFFIX,clientservices.googleapis.com
+DOMAIN-SUFFIX,clients2.google.com
+DOMAIN-SUFFIX,clients4.google.com
