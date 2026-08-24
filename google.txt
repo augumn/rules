@@ -14,6 +14,7 @@ DOMAIN-SUFFIX,admin.recaptcha.net
 DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,stitch.withgoogle.com
+DOMAIN-SUFFIX,gemini.gstatic.com
 ####### google end
 
 ####DOMAIN-KEYWORD,YouTube
