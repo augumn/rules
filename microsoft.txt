@@ -22,3 +22,4 @@ DOMAIN-SUFFIX,bingapis.com
 DOMAIN-SUFFIX,clarity.ms
 DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,infini-cloud.net
+PROCESS-NAME,WinStore.App.exe

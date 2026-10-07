@@ -8,3 +8,4 @@ DOMAIN-SUFFIX,nayutoai.xyz
 DOMAIN-SUFFIX,dpdns.org
 DOMAIN-SUFFIX,goodapi.click
 DOMAIN-SUFFIX,vicode.club
+DOMAIN-SUFFIX,us.sentry.io
