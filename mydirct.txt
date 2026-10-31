@@ -1,7 +1,7 @@
 DOMAIN,loggw-ex.alipay.com
 DOMAIN-KEYWORD,froad
 DOMAIN-KEYWORD,f-road
-DOMAIN-KEYWORD,aliyun
+#DOMAIN-KEYWORD,aliyun
 
 DOMAIN-SUFFIX,fastapi.me
 DOMAIN-SUFFIX,copyplay.net
