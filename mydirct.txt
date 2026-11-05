@@ -26,3 +26,4 @@ IP-CIDR,8.211.128.0/18,no-resolve
 PROCESS-NAME,clash-speedtest
 PROCESS-NAME,clash-speedtest.exe
 PROCESS-NAME,mihomo.exe
+PROCESS-NAME,verge-mihomo.exe
